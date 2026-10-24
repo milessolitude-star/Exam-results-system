@@ -9,16 +9,26 @@ Author: Mohamed Sallieu Mansaray
 - A dictionary stores students by ID; `add_student()` and `display_students()` manage it
 
 ## How to run
+```
 python main.py
+```
 
 ## Example output
+```
 ID: 6144 | Name: Mohammed | Score: 78
 Exam: PROG211 - Object Oriented Programming 1 (pass mark: 50)
 Pass
+ID: 6144 | Name: Mohammed | Score: 78
+ID: 5656 | Name: Aminata | Score: 45
+Fail
 Invalid score. Use 0 to 100.
+ID: 6144 | Name: Mohammed | Score: 78
+ID: 5656 | Name: Aminata | Score: 45
+ID: 1107 | Name: Kadiatu | Score: 67
 B
 F
 C
+```
 
 ## DPG alignment
 - Open source: MIT licence, public on GitHub
