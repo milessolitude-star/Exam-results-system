@@ -10,7 +10,7 @@ Author: Mohamed Sallieu Mansaray
 
 ## How to run
 ```
-python main.py
+python OOP.ASS1.py
 ```
 
 ## Example output
